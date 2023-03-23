@@ -2,11 +2,11 @@
 
 ## Learning Goals
 
-- Describe how to use `!` to negate an expression
+- Describe how to use `!` to negate an expression.
 - Describe how to convert an expression to a Boolean using `!!`
-- Define the `&&` and `||` operators
-- Describe how to link conditions using the `&&` and `||` operators
-- Practice What We Learned
+- Define the `&&` and `||` operators.
+- Describe how to link conditions using the `&&` and `||` operators.
+- Practice What We Learned.
 
 ## Introduction
 
